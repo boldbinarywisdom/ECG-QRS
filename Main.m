@@ -49,7 +49,7 @@ for i=1:length(fileList)
     
     
     %Function displaying plots
-    %DisplayPlots(y,Q_loc,R_loc,S_loc)
+    DisplayPlots(y,Q_loc,R_loc,S_loc)
     
 end
 %For detecting disease based upon standard QRS interval
